@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - http://vampir.io/blog
-    subtitle:
       - vampir.io blog
+    subtitle:
+      - Welcome!
     titleColor: 
     titleShadow: true
     titleFontSize: 44
