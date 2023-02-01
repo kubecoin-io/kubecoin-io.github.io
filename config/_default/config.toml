@@ -1,5 +1,5 @@
 baseURL = "http://vampir-io.github.io"
-title = "Hugo Zzo Theme"
+title = "vampir.io blog"
 theme = "zzo"
 
 defaultContentLanguage = "en"
