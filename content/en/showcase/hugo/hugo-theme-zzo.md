@@ -5,6 +5,6 @@ description: Make a blog with hugo zzo theme!
 weight: 1
 link: https://github.com/zzossig/hugo-theme-zzo
 repo: https://github.com/zzossig/hugo-theme-zzo
-pinned: true
+pinned: false
 thumb: feature3/css3.png
 ---
