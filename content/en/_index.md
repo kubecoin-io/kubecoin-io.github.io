@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - http://vampir.io/blog
     subtitle:
-      - The world’s fastest framework for building websites
+      - vampir.io blog
     titleColor: 
     titleShadow: true
     titleFontSize: 44
