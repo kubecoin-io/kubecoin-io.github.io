@@ -24,8 +24,8 @@
     
 [[main]]
   parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
+  name = "TAP-Windows6 install"
+  url = "gallery/TAP-Windows6"
 
 [[main]]
   parent = "gallery"
