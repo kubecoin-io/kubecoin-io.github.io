@@ -7,8 +7,6 @@ date = "2019-02-28"
 
 vampir.io blog.
 
-Other links:
-
 * https://vampir.io
 * https://vampir.io/files/
 * https://whoami.vampir.io
@@ -16,6 +14,6 @@ Other links:
 
 Learn more and contribute on [GitHub](https://github.com/vampir-io).
 
-Built with [Hugo](https://github.com/gohugoio/hugo) using [hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo)
+Made with [Hugo](https://github.com/gohugoio/hugo) and [hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo).
 
 
