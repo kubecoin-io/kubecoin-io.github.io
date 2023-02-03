@@ -2,7 +2,7 @@
 title: "Hugo zDoc Theme"
 date: 2020-01-19T21:13:42+09:00
 description: Make a documentation with hugo zdoc theme!
-weight: 0
+weight: 2
 link: https://github.com/zzossig/hugo-theme-zdoc
 repo: https://github.com/zzossig/hugo-theme-zdoc
 pinned: false
