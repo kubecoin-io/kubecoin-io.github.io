@@ -49,3 +49,4 @@
   name = "Pub"
   url = "publication"
   weight = 7
+  layout = none
