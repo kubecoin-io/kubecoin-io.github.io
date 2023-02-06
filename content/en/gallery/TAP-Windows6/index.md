@@ -7,4 +7,4 @@ description: "Installing TAP-Windows6"
 image: images/feature2/bam.png
 ---
 
-Installing TAP-Windows6 using [OpenVPN latest](https://build.openvpn.net/downloads/releases/latest/)
+Install TAP-Windows6 using [OpenVPN latest](https://build.openvpn.net/downloads/releases/latest/)
