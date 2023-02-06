@@ -27,10 +27,10 @@
   name = "Installing TAP-Windows6"
   url = "gallery/tap-windows6"
 
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
+#[[main]]
+#  parent = "gallery"
+#  name = "Photo"
+#  url = "gallery/photo"
 
 [[main]]
   identifier = "posts"
