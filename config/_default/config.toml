@@ -1,5 +1,5 @@
-baseURL = "http://vampir-io.github.io"
-title = "vampir.io blog"
+baseURL = "http://kubecoin-io.github.io"
+title = "kubecoin.io blog"
 theme = "zzo"
 
 defaultContentLanguage = "en"

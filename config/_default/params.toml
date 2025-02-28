@@ -1,6 +1,6 @@
-logoText = "vampir.io"
+logoText = "kubecoin.io"
 logoType = "short" # long, short
-description = "vampir.io blog."
+description = "kubecoin.io blog."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -61,13 +61,13 @@ typeIcon = "🎯"
 
 # whoami
 myname = "admin"
-email = "info@vampir.io"
+email = "info@kubecoin.io"
 whoami = "Web Admin"
 bioImageUrl = ""
 useGravatar = false
 location = "Internet"
-organization = "vampir.io"
-link = "https://vampir.io"
+organization = "kubecoin.io"
+link = "https://kubecoin.io"
 
 # sidebar
 enableBio = false
