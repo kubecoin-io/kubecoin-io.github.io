@@ -25,7 +25,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - vampir.io blog
+      - kubecoin.io blog
     subtitle:
       - Welcome!
     titleColor: 
